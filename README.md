@@ -68,7 +68,7 @@ For command-line work she uses SSO, not access keys:
 
 Illustrative output:
 {
-"UserId": "AROAEXAMPLEID:sarwat.khan@example.com",
+"UserId": "AROAEXAMPLEID:sarwat.Kadri@example.com",
 "Account": "111122223333",
 "Arn": "arn:aws:sts::111122223333:assumedrole/AWSReservedSSO_SecOpsReadOnly_0123456789abcdef/sarwat.kadri@example.com"
 }
